@@ -19,12 +19,11 @@
 }
 
 @media screen and (min-width:1260px) {
-    .content__section:nth-child(1) {
+    .content__section:nth-child(2) {
         padding-right: calc(var(--padding16-)*9.25);
         padding-left: calc(var(--padding16-)*9.25);
     }
 }
-
 
 @media screen and (min-width:1260px) {
     .content__section:nth-child(4) {

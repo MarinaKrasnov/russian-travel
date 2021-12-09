@@ -1,0 +1,19 @@
+.intro {
+    grid-area: intro;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    align-self: flex-start;
+}
+
+@media screen and (max-width: 999px) {
+    .intro {
+        max-width: 720px;
+    }
+}
+
+@media screen and (max-width: 665px) {
+    .intro {
+        max-width: 100%;
+    }
+}

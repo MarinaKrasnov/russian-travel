@@ -1,0 +1,8 @@
+.places__url-heading {
+    grid-area: website;
+    color: #AAAAAA;
+    font-size: 12px;
+    line-height: 1;
+    /* identical to box height, or 100% */
+    letter-spacing: 2px;
+}

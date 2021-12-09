@@ -3,10 +3,22 @@
     display: flex;
     justify-content: flex-end;
     margin: 0;
+    max-width: 100%;
+    padding: 0 calc(var(--padding16-)*3);
+    --padding16-: 16px;
 }
 
-@media (max-width:665px) {
+@media all and (max-width: 1023px) {
+    .header {
+        padding-left: calc(var(--padding16-)*1.5);
+        padding-right: calc(var(--padding16-)*1.5);
+    }
+}
+
+@media all and (max-width:767px) {
     .header {
         max-height: 42px;
+        padding-right: var(--padding16-);
+        padding-left: var(--padding16-);
     }
 }

@@ -19,7 +19,7 @@
 }
 
 @media screen and (min-width:1260px) {
-    .content__section:nth-child(2) {
+    .content__section:nth-child(1) {
         padding-right: calc(var(--padding16-)*9.25);
         padding-left: calc(var(--padding16-)*9.25);
     }
@@ -27,7 +27,7 @@
 
 
 @media screen and (min-width:1260px) {
-    .content__section:nth-child(5) {
+    .content__section:nth-child(4) {
         padding-right: calc(var(--padding16-)*9.25);
         padding-left: calc(var(--padding16-)*9.25);
     }

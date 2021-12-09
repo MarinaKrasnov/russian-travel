@@ -28,7 +28,7 @@
 
 @media (max-width:999px) {
     .place {
-        width: calc(100vw-2*var(--padding16-)*1.5-28px);
+        width: calc(100vw - 2*var(--padding16-)*1.5 - 28px);
     }
 }
 

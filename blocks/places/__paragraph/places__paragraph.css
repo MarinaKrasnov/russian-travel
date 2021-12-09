@@ -1,6 +1,5 @@
 .places__paragraph {
     grid-area: paragraph;
-    /*max-height: 116px;*/
     font-size: 18px;
     line-height: 1.63;
     /* or 29px */

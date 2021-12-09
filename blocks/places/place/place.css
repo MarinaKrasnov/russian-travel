@@ -2,7 +2,7 @@
     display: grid;
     grid-template-areas: "title website"
         "image paragraph";
-    max-width: calc(100vw-2*9.25*var(--padding16-));
+    max-width: 100%;
     grid-template-columns: 48.3% auto;
     margin: 0;
     /* grid-template-columns: 460px 1fr;

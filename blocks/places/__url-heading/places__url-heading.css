@@ -5,4 +5,15 @@
     line-height: 1;
     /* identical to box height, or 100% */
     letter-spacing: 2px;
+    margin-top: 0;
+    margin-bottom: 0;
+    text-transform: uppercase;
+}
+
+/*
+@media all and (max-width: 665px) {
+    .places__url-heading {
+        margin-bottom: 12px;
+    }
+
 }

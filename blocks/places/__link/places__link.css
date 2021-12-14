@@ -2,4 +2,6 @@
     color: #fff;
     font-size: 18px;
     line-height: 1.22;
+    width: fit-content;
+    margin-top: 12px;
 }

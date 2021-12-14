@@ -4,8 +4,7 @@
 }
 
 @media (max-width: 665px) {
-    .place__image {
-        margin-top: 32px;
-        margin-bottom: 24px;
+    .places__image {
+        margin-bottom: 28px;
     }
 }

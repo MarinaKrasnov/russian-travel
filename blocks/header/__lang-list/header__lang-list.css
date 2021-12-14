@@ -1,5 +1,4 @@
-.header__lang-link {
-    font-family: Inter;
+.header__lang-list {
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
@@ -8,15 +7,16 @@
     color: #FFFFFF;
     list-style-type: none;
     align-self: flex-start;
+    margin: 0;
 }
 
-.header__lang-link:first-of-type {
+.header__lang-list:first-of-type {
     margin-right: 18px;
-    text-decoration-line: underline;
+
 }
 
 @media screen and (max-width: 665px) {
-    .header__lang-link {
+    .header__lang-list {
         font-size: 18px;
         line-height: 1.11;
     }

@@ -17,12 +17,8 @@
 }
 
 @media all and (max-width:665px) {
+
     .content {
         grid-row-gap: 64px;
-    }
-
-    .content:last-of-type {
-        grid-row-gap: 48px;
-
     }
 }

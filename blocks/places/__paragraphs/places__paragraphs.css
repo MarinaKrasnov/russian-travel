@@ -2,3 +2,10 @@
     grid-area: paragraph;
     margin: 0;
 }
+
+@media screen and (max-width:665px) {
+    .places__paragraphs {
+        margin-right: 16px;
+        margin-left: 16px;
+    }
+}

@@ -16,5 +16,7 @@
 @media screen and (max-width:665px) {
     .places {
         grid-row-gap: 50px;
+        padding-left: 0;
+        padding-right: 0;
     }
 }

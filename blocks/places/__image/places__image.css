@@ -5,6 +5,14 @@
 
 @media (max-width: 665px) {
     .places__image {
+
+        margin-bottom: 32px;
+    }
+}
+
+@media (max-width: 665px) {
+    .places__image:last-of-type {
+
         margin-bottom: 28px;
     }
 }

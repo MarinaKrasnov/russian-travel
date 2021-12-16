@@ -24,5 +24,7 @@
 @media screen and (max-width:665px) {
     .lead {
         object-fit: contain;
+        padding-left: 0;
+        padding-right: 0;
     }
 }

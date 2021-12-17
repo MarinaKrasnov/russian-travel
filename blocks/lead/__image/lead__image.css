@@ -12,6 +12,7 @@
     .lead__image {
         max-width: 984px;
         max-height: 615px;
+        margin-top: 64px;
     }
 }
 
@@ -19,5 +20,11 @@
     .lead__image {
         max-width: 928px;
         max-height: 580px;
+    }
+}
+
+@media screen and (max-width:665px) {
+    .lead__image {
+        margin-top: 40px;
     }
 }

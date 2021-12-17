@@ -7,11 +7,10 @@
     line-height: 1.12;
 }
 
-@media all and (max-width:665px) {
+@media all and (max-width: 665px) {
     .footer__link {
-        margin-bottom: 32px;
         font-size: 24px;
-        line-height: 2.55;
+        line-height: 1;
         margin-right: 0;
     }
 }

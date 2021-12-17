@@ -1,7 +1,3 @@
-.content__section {
-    --padding16-: 16px;
-}
-
-.header {
+:root {
     --padding16-: 16px;
 }
